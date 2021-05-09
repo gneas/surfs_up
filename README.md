@@ -5,7 +5,7 @@ An analysis to determine if the temperature data for the months of June and Dece
 ## Results
 Three key differences in the temperature data between June and December were discovered.
 
-![June & December Temp Comparison](/Resources/June & December Temp Comparison.png "June & December Temp Comparison.png")
+![June December Temp Comparison](/Resources/June_December_Temp_Comparison.png "June_December_Temp_Comparison.png")
 
 - 
 ## Summary
